@@ -4,6 +4,7 @@
 [![Codecov branch](https://img.shields.io/codecov/c/github/bigchaindb/bigchaindb/master.svg)](https://codecov.io/github/bigchaindb/bigchaindb?branch=master)
 [![Documentation Status](https://readthedocs.org/projects/bigchaindb-server/badge/?version=latest)](https://docs.bigchaindb.com/projects/server/en/latest/)
 [![Join the chat at https://gitter.im/bigchaindb/bigchaindb](https://badges.gitter.im/bigchaindb/bigchaindb.svg)](https://gitter.im/bigchaindb/bigchaindb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FvonBlasberg%2Fbigchaindb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FvonBlasberg%2Fbigchaindb?ref=badge_shield)
 
 
 # BigchainDB Server
@@ -39,3 +40,7 @@ BigchainDB is a scalable blockchain database. [The whitepaper](https://www.bigch
 * [Licenses](LICENSES.md) - open source & open content
 * [Imprint](https://www.bigchaindb.com/imprint/)
 * [Contact Us](https://www.bigchaindb.com/contact/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FvonBlasberg%2Fbigchaindb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FvonBlasberg%2Fbigchaindb?ref=badge_large)
